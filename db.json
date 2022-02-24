@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "sourav",
+      "address": "odisha",
+      "email": "iamsouravrout@gmail.com",
+      "contact": "7609861151",
+      "id": 1
+    },
+    {
+      "name": "bunty",
+      "address": "odisha",
+      "email": "bunty@gmail.com",
+      "contact": "988678678",
+      "id": 2
+    },
+    {
+      "name": "debashis",
+      "address": "odisha",
+      "email": "debashis@gmail.com",
+      "contact": "9337645271",
+      "id": 3
+    }
+  ]
+}
